@@ -26,9 +26,10 @@ Soy un apasionado desarrollador de aplicaciones multiplataforma en mi primer añ
 
 1. **[WORDLE](https://github.com/byronnDev/Wordle)**: El clásico juego de adivinar la palabra, desarrollado en **Visual Basic**.
 2. **[UNZUTXIKI WEB](https://github.com/byronnDev/UNZUTXIKI)**: Página web para **Unzutxiki Berri**, que es una asociación, distribuyen alimentos a personas que se enfoca en brindar servicios sociales y familiares a la comunidad. utilizadas.
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=byronndev&show_icons=true&locale=en&layout=compact" alt="byronndev" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=byronndev&theme=dark&show_icons=true&locale=es&layout=compact" alt="byronndev" /></p>  
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byronndev&show_icons=true&locale=en" alt="byronndev" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byronndev&theme=dark&show_icons=true&locale=es" alt="byronndev" /></p>  
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byronndev&" alt="byronndev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byronndev&theme=dark&show_icons=true&locale=es" alt="byronndev" /></p>
+  
 ¡Gracias por visitar mi perfil! No dudes en echar un vistazo a mis repositorios y contribuciones. 😃
