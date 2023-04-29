@@ -1,3 +1,7 @@
+---
+permalink: /README.md
+---
+
 <!DOCTYPE html>
 <html>
 <head>
