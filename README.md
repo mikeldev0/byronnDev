@@ -3,7 +3,6 @@
 # Hola 👋, soy Mikel 🚀
 
 Soy un apasionado desarrollador de aplicaciones multiplataforma en mi primer año y entusiasta de la programación. Me encanta aprender y mejorar mis habilidades en diferentes lenguajes de programación y tecnologías. 
-- 🌱 Actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma**  
 
 ## 🛠️ Habilidades y herramientas
 
